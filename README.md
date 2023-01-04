@@ -4,7 +4,7 @@
 
 [View deployment here.](https://ramarams1122.github.io/work-day-scheduler-final/)
 
-Work Day Scheduler is a webpage that lists every hour of the day (9am-5.00pm) as a new row. Inside of each row, you can write down some task that you wish to accomplish within that given hour. Here's an example:
+Work Day Scheduler is a webpage that lists every hour of the day (9.00am-5.00pm) as a new row. Inside of each row, you can write down some task that you wish to accomplish within that given hour. Here's an example:
 
 ![the time schedule site.](./Assets/images/05-third-party-apis-homework-demo.gif)
 
